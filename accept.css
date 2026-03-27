@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+    background: #ffdde1;
+}
+h1 {
+    font-size: 40px;
+    color: #ff4d6d;
+}
